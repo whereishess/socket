@@ -1,2 +1,2 @@
 # socket
-Repo
+Repository untuk tugas socket
